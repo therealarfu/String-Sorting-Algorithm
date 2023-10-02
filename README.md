@@ -2,8 +2,8 @@
 It's an algorithm that sorts a list of strings based in a given alphabet
 # Functions
 
-|                |ASCII                          |HTML                         |
+|     Function      |Parameters                          | Deinition                        |
 |----------------|-------------------------------|-----------------------------|
-|compareWords(string1, string2, alphabet, whitespace)|`Says the word that comes first based on the given alphabet`            |'Isn't this fun?'            |
-|sortWords(list, alphabet, whitespace, reversed)          |`Sorts a list of strings based on a given alphabet`            |"Isn't this fun?"            |
+|**compareWords**|`w1(string) ; w2(string) ; alf(string) ; WHITESPACE(bool)` |`Says the word that comes first based on the given alphabet`            |
+|**sortWords**|`words(list) ; alf(string) ; WHITESPACE(bool) ; reversed(bool)`           |`Sorts a list of strings based on a given alphabet`              |
 
