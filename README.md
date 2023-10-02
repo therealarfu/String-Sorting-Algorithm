@@ -1,5 +1,9 @@
 # String-Sorting-Algorithm
 It's an algorithm that sorts a list of strings based in a given alphabet
+# How to use
+```py 
+import sortwords
+```
 # Functions
 
 |     Function      |Parameters                          | Deinition                        |
